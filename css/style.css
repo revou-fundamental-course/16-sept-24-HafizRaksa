@@ -1,8 +1,19 @@
+/* css header */
 .main-header{
     display: flex;
     padding-block: 6px;
-    padding-left: 10px;
     border: solid;
     border-radius: 9px;
     border-width: thin;
+    gap: 870px;
+}
+
+.image-header{
+    padding-left: 12px;
+}
+
+.main-navigation{
+    display: flex;
+    gap: 35px;
+    align-items: center;
 }
